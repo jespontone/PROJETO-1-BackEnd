@@ -1,0 +1,12 @@
+{
+  "name": "projeto1-biblioteca-mongodb",
+  "version": "1.0.0",
+  "description": "Biblioteca de acesso a SGDBs para Projeto 1 (MongoDB + Mongoose)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.5.0"
+  }
+}
