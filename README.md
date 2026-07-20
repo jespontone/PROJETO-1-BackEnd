@@ -27,5 +27,3 @@ Como usar
    - criar um usuário, um produto e um pedido de demonstração,
    - listar os registros no console.
 
-Observações
-- Se preferir, posso transformar isso em uma API REST com Express, autenticação básica e validações.
